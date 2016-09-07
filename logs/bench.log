@@ -1,0 +1,10 @@
+2016-08-29 14:37:32,601 INFO getting app erpnext
+2016-08-29 14:39:17,574 INFO installing erpnext
+2016-08-29 14:39:40,147 INFO getting app erpnext_demo
+2016-08-29 14:39:42,538 INFO installing erpnext_demo
+2016-09-05 11:56:16,947 INFO creating new app library_management
+2016-09-05 11:59:00,416 INFO installing library_management
+2016-09-05 12:18:20,824 INFO creating new app management
+2016-09-05 12:20:27,041 INFO installing management
+2016-09-05 17:30:30,340 INFO creating new app gestion_libreria
+2016-09-05 17:33:09,647 INFO installing gestion_libreria

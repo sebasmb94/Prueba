@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gestion_libreria *.css
+recursive-include gestion_libreria *.csv
+recursive-include gestion_libreria *.html
+recursive-include gestion_libreria *.ico
+recursive-include gestion_libreria *.js
+recursive-include gestion_libreria *.json
+recursive-include gestion_libreria *.md
+recursive-include gestion_libreria *.png
+recursive-include gestion_libreria *.py
+recursive-include gestion_libreria *.svg
+recursive-include gestion_libreria *.txt
+recursive-exclude gestion_libreria *.pyc
